@@ -10,7 +10,7 @@ namespace Testing_application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Github");
+            Console.WriteLine("Hello Githubbi!");
             Console.ReadLine();
         }
     }
